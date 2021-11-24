@@ -1,0 +1,37 @@
+
+body{ 
+    text-align: center;
+    text-shadow: azure;
+    background-color: rgb(133, 207, 209);
+
+}
+img{
+    height:125px;
+    width: 125px;
+    
+    margin:10px;
+    
+    border:solid olive;
+    
+    padding:5px;
+
+    background-color: cadetblue;
+}
+
+div > h2{
+    background-color:lightgray;
+    
+    padding: 10px;
+    border: solid olive;
+    border-radius: 10px;
+
+    
+}
+
+ 
+#heading-center{
+  display: inline-block;  
+  margin: auto;
+  text-align: center;
+}
+

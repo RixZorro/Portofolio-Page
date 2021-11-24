@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: mediumpurple;
+    color: whitesmoke;
+}
+
+#anckor{
+    font-size: 24px;
+    padding: 10px;
+    background-color: lightslategrey;
+    border: 2px solid gray;
+    color: rgb(23, 23, 240);
+    border-radius: 30px;
+    margin: auto;
+}
+button{
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 10px;
+    border-color: lightskyblue;
+
+    font-weight: bold;
+}
